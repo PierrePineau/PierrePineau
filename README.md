@@ -21,6 +21,8 @@ Javascript, HTML, CSS...
 </a>
 
 ## 🔗 Me contacter
+Via linkedin
+
 <a href="https://www.linkedin.com/in/pierre-pineau-pro/" target="_blank" rel="nofollow">
   <img src="https://img.shields.io/badge/Pierre Pineau-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mon profil Linkedin" width="150px"> 
 </a>
