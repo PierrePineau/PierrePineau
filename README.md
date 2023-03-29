@@ -16,8 +16,9 @@ Javascript, HTML, CSS...
 
 ## Mon portfolio
 
-[![Portfolio](./images/portfolio.png)](https://pineaupierre.fr/)
-
+<a href="https://pineaupierre.fr/" target="_blank" rel="nofollow">
+  <img src="./images/portfolio.png" alt="Mon portfolio" width="100%"> 
+</a>
 
 ## 🔗 Me contacter
 <a href="https://www.linkedin.com/in/pierre-pineau-pro/" target="_blank" rel="nofollow">
