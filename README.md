@@ -15,11 +15,14 @@ Javascript, HTML, CSS...
 
 
 ## Mon portfolio
+
 [![Portfolio](./images/portfolio.png)](https://pineaupierre.fr/)
 
 
 ## 🔗 Me contacter
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pierre-pineau-pro/)
+<a href="https://www.linkedin.com/in/pierre-pineau-pro/" target="_blank">
+  <img src="https://img.shields.io/badge/Pierre Pineau-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" width="150px"> 
+</a>
 
 Ou alors lancer la commande suivante
 <!-- Une commande pour ouvrir son application mail ? -->
