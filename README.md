@@ -1,7 +1,7 @@
 <!-- ![Logo](./images/logo.png) -->
-<center>
+<div align="center">
   <img src="./images/logo.png" alt="Logo" width="150" height="150">
-</center>
+</div>
 
 # Bonjour, je m'appelle Pierre Pineau ! 👋
 
