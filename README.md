@@ -1,6 +1,7 @@
-
-![Logo](./images/logo.png)
-
+<!-- ![Logo](./images/logo.png) -->
+<center>
+  <img src="./images/logo.png" alt="Logo" width="150" height="150">
+</center>
 
 # Bonjour, je m'appelle Pierre Pineau ! 👋
 
@@ -20,8 +21,19 @@ Javascript, HTML, CSS...
 ## 🔗 Me contacter
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pierre-pineau-pro/)
 
+Ou alors lancer la commande suivante
+<!-- Une commande pour ouvrir son application mail ? -->
+<a href="mailto:contact@pineaupierre.fr">
+  <img src="./images/mail.png" alt="Logo" width="100%"> 
+</a>
 
-## Other Common Github Profile Sections
+<!-- 
+```bash
+  open -a Mail mailto:contact@pineaupierre.fr
+``` -->
+
+
+## Spécialités
 👩‍💻 I'm currently working on...
 
 🧠 I'm currently learning...
@@ -38,14 +50,6 @@ Javascript, HTML, CSS...
 
 ⚡️ Fun fact...
 
-
-## Running Tests
-
-To run tests, run the following command
-
-```bash
-  npm run test
-```
 
 
 ## License
