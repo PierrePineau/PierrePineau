@@ -20,8 +20,8 @@ Javascript, HTML, CSS...
 
 
 ## 🔗 Me contacter
-<a href="https://www.linkedin.com/in/pierre-pineau-pro/" target="_blank">
-  <img src="https://img.shields.io/badge/Pierre Pineau-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" width="150px"> 
+<a href="https://www.linkedin.com/in/pierre-pineau-pro/" target="_blank" rel="nofollow">
+  <img src="https://img.shields.io/badge/Pierre Pineau-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Mon profil Linkedin" width="150px"> 
 </a>
 
 Ou alors lancer la commande suivante
