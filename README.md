@@ -9,6 +9,13 @@
 ## À propos de moi
 Je suis Webdesigner et Développeur fullstack, mes collègues me surnomme Le couteau suisse. Ma curiosité et mon appétence pour le développement ainsi que les autres domaines du web m'ont permis d'acquérir un panel de compétence diversifié
 
+## Mes spécialités
+
+- Web developpement
+- Web design
+- Référencement
+- Motion design
+
 
 ## 🛠 Skills
 - Symfony
@@ -17,6 +24,8 @@ Je suis Webdesigner et Développeur fullstack, mes collègues me surnomme Le cou
 - TailwindCSS
 - Javascript
 - TWIG
+
+
 
 
 ## Mon portfolio
@@ -44,14 +53,6 @@ Ou alors lancer la commande suivante
 ```bash
   open -a Mail mailto:contact@pineaupierre.fr
 ``` -->
-
-
-## Mes spécialités
-
-- Web developpement
-- Web design
-- Référencement
-- Motion design
 
 
 
