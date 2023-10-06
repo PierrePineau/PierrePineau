@@ -6,15 +6,22 @@
 # Bonjour, je m'appelle Pierre Pineau ! 👋
 
 
-## 🚀 À propos de moi
-Je suis développeur fullstack
+## À propos de moi
+Je suis Webdesigner et Développeur fullstack, mes collègues me surnomme Le couteau suisse. Ma curiosité et mon appétence pour le développement ainsi que les autres domaines du web m'ont permis d'acquérir un panel de compétence diversifié
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS...
+- Symfony
+- Laravel
+- VueJS
+- TailwindCSS
+- Javascript
+- TWIG
 
 
 ## Mon portfolio
+
+Pour en savoir plus sur moi, je vous invite à visiter mon portfolio
 
 <a href="https://pineaupierre.fr/" target="_blank" rel="nofollow">
   <img src="./images/portfolio.png" alt="Mon portfolio" width="100%"> 
@@ -39,22 +46,12 @@ Ou alors lancer la commande suivante
 ``` -->
 
 
-## Spécialités
-👩‍💻 I'm currently working on...
+## Mes spécialités
 
-🧠 I'm currently learning...
-
-👯‍♀️ I'm looking to collaborate on...
-
-🤔 I'm looking for help with...
-
-💬 Ask me about...
-
-📫 How to reach me...
-
-😄 Pronouns...
-
-⚡️ Fun fact...
+- Web developpement
+- Web design
+- Référencement
+- Motion design
 
 
 
